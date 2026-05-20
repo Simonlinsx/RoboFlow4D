@@ -1,4 +1,7 @@
-<h1 align="center">RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation</h1>
+<h1 align="center">
+  <img src="./flow-icon.svg" alt="RoboFlow4D icon" width="42" align="center">
+  RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation
+</h1>
 
 <p align="center">
   Proceedings of the International Conference on Machine Learning 2026
@@ -44,8 +47,6 @@
 ## Overview
 
 RoboFlow4D is a lightweight flow world model for real-time flow-guided robotic manipulation. It models dynamic 3D point flow and uses predicted flow as a compact intermediate representation for downstream manipulation policies.
-
-This public repository currently hosts the project README.
 
 ## Citation
 

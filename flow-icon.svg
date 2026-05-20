@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">RoboFlow4D flow icon</title>
+  <g fill="none" stroke-linecap="round" stroke-width="3.2">
+    <path d="M46 177 C74 162, 106 156, 151 156" stroke="#4960ff" opacity="0.72"/>
+    <path d="M58 190 C90 178, 126 173, 179 174" stroke="#9c27b0" opacity="0.72"/>
+    <path d="M38 161 C76 143, 104 132, 144 122" stroke="#2dd4bf" opacity="0.7"/>
+    <path d="M61 141 C92 126, 126 115, 172 106" stroke="#22c55e" opacity="0.72"/>
+    <path d="M82 119 C110 103, 139 94, 183 87" stroke="#84cc16" opacity="0.72"/>
+    <path d="M103 98 C132 83, 157 76, 200 69" stroke="#eab308" opacity="0.72"/>
+    <path d="M113 76 C141 66, 166 59, 211 55" stroke="#f59e0b" opacity="0.72"/>
+    <path d="M134 44 C163 48, 184 51, 214 57" stroke="#ef4444" opacity="0.68"/>
+    <path d="M72 210 C104 202, 139 198, 196 205" stroke="#ec4899" opacity="0.72"/>
+  </g>
+  <g stroke="#172033" stroke-linecap="round" stroke-width="2" opacity="0.7">
+    <path d="M37 181 L50 174"/>
+    <path d="M51 194 L65 188"/>
+    <path d="M30 164 L46 157"/>
+    <path d="M52 144 L66 137"/>
+    <path d="M74 122 L88 115"/>
+    <path d="M94 101 L108 94"/>
+    <path d="M101 79 L116 73"/>
+    <path d="M123 42 L139 45"/>
+    <path d="M62 213 L77 209"/>
+  </g>
+  <g>
+    <circle cx="52" cy="174" r="5.5" fill="#5865ff"/>
+    <circle cx="70" cy="169" r="5.5" fill="#4f8bff"/>
+    <circle cx="90" cy="164" r="5.5" fill="#36b6ff"/>
+    <circle cx="112" cy="160" r="5.5" fill="#39d5c4"/>
+    <circle cx="139" cy="156" r="5.5" fill="#3ddf8f"/>
+    <circle cx="64" cy="188" r="5.5" fill="#814dff"/>
+    <circle cx="86" cy="183" r="5.5" fill="#a855f7"/>
+    <circle cx="112" cy="179" r="5.5" fill="#c026d3"/>
+    <circle cx="145" cy="175" r="5.5" fill="#d946ef"/>
+    <circle cx="179" cy="174" r="5.5" fill="#db2777"/>
+    <circle cx="47" cy="157" r="5.5" fill="#38bdf8"/>
+    <circle cx="70" cy="148" r="5.5" fill="#22d3ee"/>
+    <circle cx="96" cy="139" r="5.5" fill="#2dd4bf"/>
+    <circle cx="122" cy="130" r="5.5" fill="#34d399"/>
+    <circle cx="144" cy="122" r="5.5" fill="#86efac"/>
+    <circle cx="66" cy="137" r="5.5" fill="#4ade80"/>
+    <circle cx="91" cy="126" r="5.5" fill="#65d84f"/>
+    <circle cx="119" cy="116" r="5.5" fill="#84cc16"/>
+    <circle cx="146" cy="110" r="5.5" fill="#a3e635"/>
+    <circle cx="172" cy="106" r="5.5" fill="#bef264"/>
+    <circle cx="88" cy="115" r="5.5" fill="#84cc16"/>
+    <circle cx="112" cy="103" r="5.5" fill="#a3e635"/>
+    <circle cx="137" cy="95" r="5.5" fill="#d9f99d"/>
+    <circle cx="160" cy="90" r="5.5" fill="#fde047"/>
+    <circle cx="183" cy="87" r="5.5" fill="#facc15"/>
+    <circle cx="108" cy="94" r="5.5" fill="#facc15"/>
+    <circle cx="132" cy="84" r="5.5" fill="#f59e0b"/>
+    <circle cx="157" cy="77" r="5.5" fill="#f97316"/>
+    <circle cx="181" cy="72" r="5.5" fill="#fb923c"/>
+    <circle cx="200" cy="69" r="5.5" fill="#f87171"/>
+    <circle cx="116" cy="73" r="5.5" fill="#fb923c"/>
+    <circle cx="143" cy="65" r="5.5" fill="#f59e0b"/>
+    <circle cx="168" cy="60" r="5.5" fill="#eab308"/>
+    <circle cx="190" cy="57" r="5.5" fill="#fb7185"/>
+    <circle cx="211" cy="55" r="5.5" fill="#ef4444"/>
+    <circle cx="139" cy="45" r="5.5" fill="#e879f9"/>
+    <circle cx="164" cy="49" r="5.5" fill="#f472b6"/>
+    <circle cx="188" cy="53" r="5.5" fill="#fb7185"/>
+    <circle cx="214" cy="57" r="5.5" fill="#ef4444"/>
+    <circle cx="77" cy="209" r="5.5" fill="#6366f1"/>
+    <circle cx="103" cy="204" r="5.5" fill="#8b5cf6"/>
+    <circle cx="132" cy="201" r="5.5" fill="#a855f7"/>
+    <circle cx="164" cy="202" r="5.5" fill="#d946ef"/>
+    <circle cx="196" cy="205" r="5.5" fill="#ec4899"/>
+  </g>
+</svg>
